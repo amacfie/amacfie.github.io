@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         kramdown
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Poole
+tagline:          The Jekyll Butler
+url:              http://amacfie.github.io
+paginate:         1
+author:
+  name:           Andrew MacFie
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/amacfie/amacfie.github.io
+
+pages_list:       
+    About: '/about'
+    Archive: '/archive'
+    Feed: '/atom.xml'
