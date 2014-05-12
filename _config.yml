@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Andrew MacFie's Blog
+tagline:          tagline
 url:              http://amacfie.github.io
 paginate:         1
 author:
