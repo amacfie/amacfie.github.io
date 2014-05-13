@@ -9,11 +9,11 @@ permalink:        pretty
 title:            Andrew MacFie's Blog
 tagline:          opinions and news
 url:              http://amacfie.github.io
-paginate:         3
+paginate:         6
 author:
   name:           Andrew MacFie
 
-excerpt_separator: "\r\n\r\n"
+excerpt_separator: "\n\n"
 
 # Custom vars
 version:          1.0.0
