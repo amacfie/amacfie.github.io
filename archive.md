@@ -3,8 +3,6 @@ layout: page
 title: Archive
 ---
 
-## Blog Posts
-
 <ul>
 {% for post in site.posts %}
       <li>
