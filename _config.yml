@@ -7,11 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Andrew MacFie's Blog
-tagline:          tagline
+tagline:          opinions and news
 url:              http://amacfie.github.io
-paginate:         1
+paginate:         3
 author:
   name:           Andrew MacFie
+
+excerpt_separator: "\r\n\r\n"
 
 # Custom vars
 version:          1.0.0
@@ -19,6 +21,5 @@ github:
   repo:           https://github.com/amacfie/amacfie.github.io
 
 pages_list:       
-    About: '/about'
     Archive: '/archive'
     Feed: '/atom.xml'

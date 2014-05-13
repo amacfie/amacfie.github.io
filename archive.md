@@ -5,6 +5,12 @@ title: Archive
 
 ## Blog Posts
 
+<ul>
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+      <li>
+      {{ post.date | date_to_string }} &raquo; 
+      <a href="{{ post.url }}">  {{ post.title }} </a>
+{{ post.excerpt }}
+    </li>
 {% endfor %}
+</ul>
