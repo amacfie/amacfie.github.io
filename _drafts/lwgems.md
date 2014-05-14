@@ -19,4 +19,5 @@ title: LessWrong gems
 
 [LessWrongers' creed](http://kruel.co/lw/There%20is%20no%20Science%20but%20Bayes%20and%20it%20is%20our%20Method.txt)
 
+[The end is nigh](http://lesswrong.com/lw/k2s/open_thread_april_16_april_22_2014/atpy)
 
