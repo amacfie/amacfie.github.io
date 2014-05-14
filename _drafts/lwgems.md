@@ -13,3 +13,10 @@ title: LessWrong gems
 
 [Random LW-parodying Statement Generator](http://lesswrong.com/r/discussion/lw/egt/random_lwparodying_statement_generator/7ena)
 
+[Cards Against Rationality](http://lesswrong.com/lw/d2w/cards_against_rationality/)
+
+[Bayes: The Exclusive Less Wrong Magazine](http://i.imgur.com/K2Lsire.jpg)
+
+[LessWrongers' creed](http://kruel.co/lw/There%20is%20no%20Science%20but%20Bayes%20and%20it%20is%20our%20Method.txt)
+
+
