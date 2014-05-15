@@ -110,6 +110,10 @@ strong {
   color: #303030;
 }
 
+/* footer text */
+.footer {
+    font-size: 0.62rem;
+}
 
 /* Lists */
 ul, ol, dl {
