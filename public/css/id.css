@@ -1,0 +1,14 @@
+/* http://support.intensedebate.com/css-documentation/ */
+
+#idc-container-parent #idc-container .idc-foot {
+    border: none;
+}
+
+div#IDCommentsNewThreadCover h3:after {
+        content: " (LaTeX can be used with \\( \\) and \\[ \\]. Refresh the page after posting to see rendered version.)";
+    }
+
+    #idc-container-parent #idc-container .idc-new {
+        padding-top: 10px;
+
+    }
