@@ -8,7 +8,8 @@ title: Archive
       <li>
       {{ post.date | date_to_string }} &raquo; 
       <a href="{{ post.url }}">  {{ post.title }} </a>
-{{ post.excerpt }}
+      {{ post.excerpt }} 
+      <p id="ellipsis"> &hellip;</p>
     </li>
 {% endfor %}
 </ul>
