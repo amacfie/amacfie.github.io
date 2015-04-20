@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My setup: update
+title: "My setup: update"
 ---
 
 This is an update to [this post](http://amacfie.github.io/2014/09/10/setup/).
