@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vim tip: Managing plugins for multiple JS libraries
+title: Managing vim plugins for multiple JS libraries
 ---
 
 Say you're working on two JS projects with vim: one using BackboneJS and
@@ -16,7 +16,7 @@ and [NeoBundle](https://github.com/Shougo/neobundle.vim).
 
 Configuring which plugins load for which filetypes can be done in the main
 `.vimrc` but JS frameworks are more specific than filetypes, so we use
-`vim-localvimrc` to define vim configuration for a certain project (or any
+vim-localvimrc to define vim configuration for a certain project (or any
 directory).
 In general, this will work as follows.
 My main `.vimrc` file contains
