@@ -5,6 +5,7 @@ title: GitHub as academic publisher?
 
 What would academic publishing technology look like if we could set it up
 from scratch today?
+
 We'd start by making HTML the primary document format instead of PDFs.
 PDFs are slow, static, don't use responsive design, and get converted to web
 documents anyway in modern browsers.
