@@ -10,7 +10,7 @@ We'd start by making HTML the primary document format instead of PDFs.
 PDFs are slow, static, don't use responsive design, and get converted to web
 documents anyway in modern browsers.
 For mathematical notation in HTML, we can use MathJax or KaTeX:
-These are JavaScript libraries that can provide numerous mathematical
+These are JavaScript libraries that provide numerous mathematical
 symbols, equation numbering, etc. with LaTeX syntax within HTML.
 We wouldn't want to write bare HTML though, we'd write in a human-friendly
 plain-text document language like markdown or Asciidoc.
