@@ -20,7 +20,7 @@ which not only converts markdown but provides templates and configuration data
 for multi-webpage documents.
 Academic papers are public and collaborative projects, so we could
 expect each document to be hosted in a GitHub repository.
-The html output of these markdown documents needs to be hosted on the web too,
+The HTML output of these markdown documents needs to be hosted on the web too,
 and luckily GitHub [automatically](https://pages.github.com/)
 builds and hosts static site repos on github.io!
 Such GitHub repositories can even be assigned a [DOI](https://guides.github.com/activities/citable-code/).
