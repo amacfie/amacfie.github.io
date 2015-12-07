@@ -21,6 +21,9 @@ career-relevant skills and facts: through reading books, watching documentaries,
 talking with experts, and finding mentors."
 - Geoffrey Miller
 
+"School isn't about Learning"
+- Robin Hanson
+
 "all the really good programmers are self-taught"
 - Brian Bi
 
