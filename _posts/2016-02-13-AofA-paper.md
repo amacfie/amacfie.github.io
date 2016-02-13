@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On arXiv: Analysis of Algorithms and Partial Algorithms"
+title: "On arXiv: Analysis of algorithms and partial algorithms"
 ---
 
 Say there's a computational problem, e.g. sorting.
