@@ -12,10 +12,10 @@ to build PDF "releases" of your documents for some reason.
 Multiple people have reported writing theses in Pandoc.
 
 It turns out
-[Travis CI can be used](http://www.carlboettiger.info/2014/10/28/jekyll-free.html)
+[Travis CI can be used](http://eshepelyuk.github.io/2014/10/28/automate-github-pages-travisci.html)
 to allow Pandoc or any other converter to generate GitHub pages.
 And Pandoc can run quite well
-[without a static site generator like Jekyll](http://eshepelyuk.github.io/2014/10/28/automate-github-pages-travisci.html).
+[without a static site generator like Jekyll](http://www.carlboettiger.info/2014/10/28/jekyll-free.html).
 I made a small test site with Pandoc on GitHub
 [here](https://github.com/amacfie/ci_pandoc_test).
 
