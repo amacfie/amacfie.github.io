@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link of the day
+title: "Link of the day: Language designer panel"
 ---
 
 Erik Meijer hosts a panel at Lang.NEXT 2014:

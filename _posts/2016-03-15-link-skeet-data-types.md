@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Link of the day
+title: "Link of the day: Jon Skeet speaks"
 ---
 
 Jon Skeet on the tricky edge cases that can show up with basic data types
