@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
 
 # Permalinks
 permalink:        pretty
@@ -20,6 +19,6 @@ version:          1.0.0
 github:
   repo:           https://github.com/amacfie/amacfie.github.io
 
-pages_list:       
+pages_list:
     Archive: '/archive'
     Feed: '/atom.xml'
