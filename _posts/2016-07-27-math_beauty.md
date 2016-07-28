@@ -19,12 +19,12 @@ title: Modeling aesthetics in mathematics
 
 >One expects a mathematical theorem or a mathematical theory not only to
 >describe and to classify in a simple and elegant way numerous and a priori
->disparate special cases. One also expects "'elegance" in its "architectural,"
+>disparate special cases. One also expects "elegance" in its "architectural",
 >structural makeup. Ease in stating the problem, great difficulty in getting
 >hold of it and in all attempts at approaching it, then again some very
 >surprising twist by which the approach, or some part of the approach, becomes
 >easy, etc. Also, if the deductions are lengthy or complicated, there should be
->some simple general principle involved, which "'explains" the complications and
+>some simple general principle involved, which "explains" the complications and
 >detours, reduces the apparent arbitrariness to a few simple guiding
 >motivations, etc. These criteria are clearly those of any creative art
 >
@@ -41,8 +41,8 @@ of mathematics is considered beautiful;
 such a connection allows knowledge from one are to be applied to the other,
 potentially cracking new problems.
 An unexpected proof -- "an unexpected perspective" or "surprising twist" --
-offers something new to be learned -- something that can
-then be used for other problems.
+offers something new to be learned, something that can then be used for other
+problems.
 Whimsically we could even say an efficient automated theorem prover must
 contain a good deal of beauty.
 
