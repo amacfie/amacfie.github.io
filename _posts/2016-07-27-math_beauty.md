@@ -15,7 +15,7 @@ title: Modeling aesthetics in mathematics
 >no part therein? Only a privileged few are called to enjoy it fully, it is
 >true, but is not this the case for all the noblest arts?
 >
->-Henri Poincaré, The Value of Science (1905)
+>-Henri Poincaré, _The Value of Science_
 
 >One expects a mathematical theorem or a mathematical theory not only to
 >describe and to classify in a simple and elegant way numerous and a priori
