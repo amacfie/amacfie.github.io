@@ -42,7 +42,6 @@ My ["expected-reward analysis"][aoaapa] was supposed to approximate agent
 scores but I'm pretty sure it's too impractical for humans to perform, given
 how hard some other problems are (the non-linearity is its strength and its
 weakness).
-It's probably unnecessarily precise anyway.
 A framework of "generalized" approximation algorithms as in Vadim's [_Optimal
 Polynomial-Time Estimators_ draft][optimalpredictors] may be more fruitful.
 
