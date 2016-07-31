@@ -51,8 +51,8 @@ Let's take Solomonoff induction (SI).
 SI is, of course, incomputable, but we'll settle for a good approximation.
 I'm curious about the complexity of approximating SI, i.e. what's the optimal
 polynomial-time approximation factor?
-The answer is obvious using the usual worst-case error approach, but using
-expected error it's a different story.
+No constant approximation factors are possible according to the usual
+worst-case error approach, but using expected error it's a different story.
 A more "general" analysis is desired.
 If key problems such as SI turn out to be impossible or trivial to approximate
 in theory, perhaps this tells us that the problems aren't in fact the right
