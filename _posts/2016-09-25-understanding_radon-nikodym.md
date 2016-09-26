@@ -7,7 +7,7 @@ _Note: "Almost everywhere" will be with respect to the Lebesgue measure._
 
 Say we have a probability distribution function (df) which is not
 differentiable, e.g.
-$$F(x) = x [0 \leq x < 1] + [1 \geq x]$$.
+$$F(x) = x [0 \leq x < 1] + [1 \leq x]$$.
 Then $$F$$ is not differentiable everywhere, but it
 still has a density $$f$$ such that $$F(x) = \int_{-\infty}^x f$$, namely $$f(x) =
 [0 \leq x < 1]$$, or anything equal to $$f$$ almost everywhere.
