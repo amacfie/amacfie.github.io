@@ -54,7 +54,7 @@ So "absolute continuity" by itself is respect to $$\lambda$$.
 This gives us an analogous definition of _density with respect to a measure_:
 
 Radon-Nikodym theorem:
-If $$\mu$$ and $$v$$ are probability ($$\sigma$$-finite) measures on a measurable
+If $$\mu$$ and $$v$$ are any $$\sigma$$-finite measures on a measurable
 space $$(\Omega, \mathcal{B})$$ such that $$v$$ is absolutely
 continuous w.r.t. $$\mu$$, then there exists a nonnegative density function
 $$\frac{dv}{d\mu}: \Omega \rightarrow \mathbb{R}$$ s.t. $$v(A) = \int_A
@@ -65,7 +65,4 @@ $$\mu$$-measure $$0$$.
 Although $$\frac{dv}{d\mu}$$ is sometimes called a Radon-Nikodym derivative,
 it is not a derivative in the sense of a derivative at a point.
 Thus we merely call it a "density".
-
-Note that the theorem only holds for $$\sigma$$-finite measures, $$\lambda$$
-isn't actually included.
 
