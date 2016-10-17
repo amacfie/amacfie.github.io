@@ -4,8 +4,8 @@ title: "Some algorithmic aspects of AGI"
 ---
 
 As in any field of computer science, certain computational problems and
-algorithms arise in AGI, both as central objects of study and ad hoc components
-of systems.
+algorithms arise in artificial general intelligence ([AGI](https://en.wikipedia.org/wiki/Artificial_general_intelligence)),
+both as central objects of study and ad hoc components of systems.
 Computational complexity theory and design and analysis of algorithms are
 theoretical fields that look at computational problems and algorithms in
 general.
