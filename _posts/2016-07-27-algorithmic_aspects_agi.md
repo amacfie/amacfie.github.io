@@ -57,8 +57,11 @@ A more "general" analysis is desired.
 If key problems such as KC turn out to be impossible or trivial to approximate
 in theory, perhaps this tells us that the problems aren't in fact the right
 ones to be solving.
+This kind of analysis was done for "Heuristic Driven Theory Projection" at
+[AGI 2013][robere] by Robert Robere.
 
 
 [aoaapa]: http://arxiv.org/abs/1601.03411
 [optimalpredictors]: https://github.com/antiquark/FAI/tree/master/Optimal%20Predictors
+[robere]: http://link.springer.com/chapter/10.1007%2F978-3-642-39521-5_2
 [scores]: http://arxiv.org/abs/0712.3329
