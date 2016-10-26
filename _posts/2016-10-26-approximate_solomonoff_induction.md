@@ -11,15 +11,18 @@ Since it is incomputable, presumably we would get approximately good
 predictions if we approximate $$m$$.
 The question is, how?
 We could consider approximation algorithms for $$m$$, or approximation
-algorithms for a computable bounded version $$m^t$$.
+algorithms for a computable resource-bounded version $$m^t$$.
 Usually approximation algorithms are analyzed according to their error ratios,
 but for approximating $$m$$ we could also look at [statistical distance](https://en.wikipedia.org/wiki/Statistical_distance).
-Alternatively, we could approximate Kolmogorov complexity, and use that to
-approximate $m$.
-Or we could restrict the class of programs to search through.
+Alternatively, we could approximate Kolmogorov complexity (or a
+resource-bounded version), and use that to approximate $$m$$.
+Or we could restrict the class of programs to search through according to
+something other than resource bounds.
 We could even consider programs which return approximately matching strings.
-If we somehow boil these down into a single error function, then we can, say,
-search for polynomial time algorithms which minimize the error.
+At least some of these notions of approximation lead to trivial optimal
+solutions, so they can't all be right.
+If we somehow boil these approaches down into a single error function, then we
+can, say, search for polynomial time algorithms which minimize the error.
 But until we decide what to optimize, the Solomonoff prior doesn't say anything
 useful about how to make optimal predictions.
 
