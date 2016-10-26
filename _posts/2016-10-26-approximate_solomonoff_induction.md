@@ -12,6 +12,7 @@ predictions if we approximate $$m$$.
 The question is, how?
 We could consider approximation algorithms for $$m$$, or approximation
 algorithms for a computable resource-bounded version $$m^t$$.
+Should we use worst-case error or expected error?
 Usually approximation algorithms are analyzed according to their error ratios,
 but for approximating $$m$$ we could also look at [statistical distance](https://en.wikipedia.org/wiki/Statistical_distance).
 Alternatively, we could approximate Kolmogorov complexity (or a
