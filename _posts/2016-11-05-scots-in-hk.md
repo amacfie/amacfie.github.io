@@ -13,7 +13,8 @@ largest British trading firm in East Asia,
 but they were [principally
 responsible][travel] for architecting the Opium Wars and the Treaty of Nanjing
 which formally acquired Hong Kong.
-As a British colony, the GDP of Hong Kong grew to [over a quarter][gdp] of
+Starting from a tiny fishing village,
+Hong Kong grew as a British colony to have [over a quarter][gdp] of
 the GDP of China, with 0.5% of its population.
 
 Dr. Jardine as painted in the 1820s:
