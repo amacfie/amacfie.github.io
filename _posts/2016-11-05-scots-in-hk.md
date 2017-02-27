@@ -15,7 +15,7 @@ responsible][travel] for architecting the Opium Wars and the Treaty of Nanjing
 which formally acquired Hong Kong.
 Starting from a tiny fishing village,
 Hong Kong grew as a British colony to have [over a quarter][gdp] of
-the GDP of China, with 0.5% of its population.
+the GDP of China, with 0.5% of its population (and 12% of the GDP of the UK).
 
 Dr. Jardine as painted in the 1820s:
 
