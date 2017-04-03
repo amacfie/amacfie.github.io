@@ -31,7 +31,7 @@ Clearly this example and any discontinuous dfs will not have densities.
 But being continuous is not enough.
 
 It turns out that having a density in the almost everywhere sense means being
-'absolutely continuous'.
+"absolutely continuous".
 Two definitions of absolute continuity of $$F$$:
 
 * $$F(A)=0$$ for every $$A$$ for which $$\lambda(A)=0$$
