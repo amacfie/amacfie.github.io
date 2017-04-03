@@ -49,7 +49,7 @@ absolutely continuous w.r.t $$v$$ iff for every $$A \in \mathcal{B}$$, if
 $$v(A) = 0$$ then $$\mu(A) = 0$$.
 This is written $$\mu << v$$ (think of the $$<$$ signs as arrows pointing in the
 direction of the implication).
-So "absolute continuity" by itself is respect to $$\lambda$$.
+So "absolute continuity" by itself is with respect to $$\lambda$$.
 
 This gives us an analogous definition of _density with respect to a measure_:
 
