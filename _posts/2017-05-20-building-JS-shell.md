@@ -63,7 +63,7 @@ Let's create a file called `mysh` with the following contents:
 Assuming `~/bin` is in our path variable, we can put `mysh` there and launch
 our shell anywhere by just running `mysh`.
 So far so good but we wanted to automatically import ShellJS.
-In `myrepl.sj`, add the following:
+In `myrepl.js`, add the following:
 
     var shell = require('shelljs');
     Object.assign(myrepl.context, shell);
