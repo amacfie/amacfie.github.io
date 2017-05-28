@@ -24,5 +24,5 @@ Dr. Jardine as painted in the 1820s:
 ![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Jardine_by_Chinnery.png)
 
 [gdp]: http://www.wolframalpha.com/input/?i=(1993+GDP+of+Hong+Kong)+%2F+(1993+GDP+of+China)
-[realestate]: www.tandfonline.com/doi/full/10.1080/01446190500127260?src=recsys
+[realestate]: http://www.tandfonline.com/doi/full/10.1080/01446190500127260?src=recsys
 [travel]: https://en.wikipedia.org/wiki/William_Jardine_(merchant)#Departure_from_China_and_breakdown_of_relations
