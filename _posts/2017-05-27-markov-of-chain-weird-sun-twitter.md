@@ -168,17 +168,17 @@ Just load the training text and set a state size.
 
 Some favorites:
 
-* It is no coincidence we call them gods because we suppose they are trying to
-  convince Robin Hanson.
-* Tell anyone who does not produce Scott Alexander.
-* Weird sun is a costly signal of the ability to remember sources of
-  information, not just the study of complex manifolds.
-* If you read The Hobbit backwards, it's about a layer of radioactive ash that
-  develops the capacity to become larger.
-* When you read a physical book, you get a dust speck in the eye.
-* We all continuously scream about how the people in it are breaking the
-  awkward silence.
-* People are important, but so are lexicographic preferences.
-* You don't need an expert Bayesian Epistemologist to ensure it's not a markov
-  chain.
+* "It is no coincidence we call them gods because we suppose they are trying to
+  convince Robin Hanson."
+* "Tell anyone who does not produce Scott Alexander."
+* "Weird sun is a costly signal of the ability to remember sources of
+  information, not just the study of complex manifolds."
+* "If you read The Hobbit backwards, it's about a layer of radioactive ash that
+  develops the capacity to become larger."
+* "When you read a physical book, you get a dust speck in the eye."
+* "We all continuously scream about how the people in it are breaking the
+  awkward silence."
+* "People are important, but so are lexicographic preferences."
+* "You don't need an expert Bayesian Epistemologist to ensure it's not a markov
+  chain."
 
