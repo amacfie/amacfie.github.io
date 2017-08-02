@@ -39,6 +39,6 @@ mathematics) and industry (engineering or software development).
   maximum mental exertion. Engineering requires thinking but the intensity
   is different.
 * _Secondary activities_: Academics are loaded with non-research duties
-  that may even eclipse their research altogether. Engineers are more likely
-  to do the same kind of work all day every day.
+  that may even eclipse their research altogether. The typical Engineer does
+  "engineering" all day every day.
 
