@@ -46,4 +46,8 @@ hours to the end of every term, when I should return home."
 "Shut up! Shut up and leave me alone with my books!"
 - Zack M. Davis
 
+"Real education must ultimately be limited to one who INSISTS on knowing, the
+rest is mere sheep-herding."
+- Ezra Pound
+
 Etc., etc.
