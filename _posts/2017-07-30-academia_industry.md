@@ -31,7 +31,7 @@ mathematics) and industry (engineering or software development).
   engineers, no matter how skilled they are, can have recognition within their
   company at most.
 * _Team vs. solo_: Academics collaborate, but engineers are more likely to
-  work in larger teams have more frequent team interactions.
+  work in larger teams and have more frequent team interactions.
 * _Money_: Academics can make good money if they become tenured professors.
   But jobs are scarce and most people at even the postdoc stage (typically
   late 20s) get very poor pay.
