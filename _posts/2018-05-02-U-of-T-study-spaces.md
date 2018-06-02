@@ -5,6 +5,9 @@ title: "U of Toronto study space info"
 
 (a partial list)
 
+![Cannons](https://kek.gg/i/3rmhHW.jpg)
+U of T cannons pointed at Ryerson
+
 ## [Libraries](https://onesearch.library.utoronto.ca/visit)
 
 ### [Robarts Library](https://www.google.com/maps/place/John+P.+Robarts+Research+Library/@43.664486,-79.4018733,17z/data=!3m1!4b1!4m5!3m4!1s0x882b34be85038f67:0x7cd088dfbb2ef4a9!8m2!3d43.664486!4d-79.39969)
