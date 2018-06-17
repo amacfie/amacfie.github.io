@@ -132,10 +132,6 @@ U of T cannons pointed at Ryerson
 |busyness       | ?
 |typical hours  | 9-5
 
-### [Milt Harris Library (Rotman School of Management)](https://goo.gl/maps/SgLtyX5sX7p)
-
-Currently under construction
-
 
 ## [Local Toronto public library branches](https://www.torontopubliclibrary.ca/hours-locations/)
 
