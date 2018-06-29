@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link of the day: Generated poetry"
+title: "Link: Generated poetry"
 ---
 
 <https://www.reddit.com/user/haikubot-1911/comments/?sort=top>

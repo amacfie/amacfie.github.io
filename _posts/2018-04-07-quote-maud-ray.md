@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quote of the day: Maud Ray Kent"
+title: "Quote: Maud Ray Kent"
 ---
 
 Paraphrasing from Macrae's biography of J. von Neumann:

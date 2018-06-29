@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Link of the day: \"The Philosopher\""
+title: "Link: \"The Philosopher\""
 ---
 
 A short story

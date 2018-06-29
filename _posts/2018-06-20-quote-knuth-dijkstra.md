@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quote of the day: Knuth on Dijkstra"
+title: "Quote: Knuth on Dijkstra"
 ---
 
 >One of the pleasures I've had over the years is to play four-hands piano music
