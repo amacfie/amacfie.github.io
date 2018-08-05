@@ -5,7 +5,8 @@ title: "U of Toronto study space info"
 
 (a partial list)
 
-![Cannons](https://kek.gg/i/3rmhHW.jpg)
+![Cannons]({{"/public/images/cannon.jpg" | absolute_url}})
+
 U of T cannons pointed at Ryerson
 
 ## [Libraries](https://onesearch.library.utoronto.ca/visit)
