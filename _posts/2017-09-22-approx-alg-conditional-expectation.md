@@ -12,5 +12,7 @@ Bregman divergence, heuristic algorithm, probabilistic numerics, arbitrage,
 betting, fundamental theorem of asset pricing, complex derivative pricing,
 probabilistic interpretations, computational complexity
 
-![Open notebook science SC Immediate](https://kek.gg/i/3whzfs.png)
+[Direct link to outdated PDF](https://drive.google.com/open?id=1Ys5o4v582l2_13oCAa9EOHHVUSwGWNok)
+
+(Open notebook science SC Immediate)
 
