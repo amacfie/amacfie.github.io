@@ -36,7 +36,10 @@ Another possibility is arbitrage pricing where traders have both limited
 information and limited computational resources.
 If there is only limited information, there is an excellent theory based
 on the Fundamental Theorem of Asset Pricing
-(see "The Mathematics of Arbitrage", by Delbaen and Schachermayer).
+(see "The Mathematics of Arbitrage", by Delbaen and Schachermayer;
+and perhaps see also ["De Finetti was right: Probability does not
+exist"](http://www.brunodefinetti.it/bibliografia/definettiwasright.pdf) by
+Robert Nau).
 If pricing models are computationally nontrivial, computational resources
 could be a useful factor to model.
 
