@@ -18,7 +18,7 @@ Finance is a very practical field and it's hard to propose solutions without
 understanding the problems of the field at a practical level.
 In theoretical computer science there are various subtleties e.g.
 different models of computation, safe and unsafe conjectures, et cetera.
-And the two fields use very different math.
+And the two fields use very different mathematics.
 
 The paper
 ["Computational complexity and information asymmetry in financial products"](https://scholar.princeton.edu/sites/default/files/derivative_0.pdf)
