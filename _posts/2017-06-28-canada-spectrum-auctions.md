@@ -92,20 +92,19 @@ not reach the limit.
 
 Ideally, we would determine whether the bids made are consistent with a
 non-truthful strategy incorporating gaming and/or coordination.
-It is not clear that this is feasible using available models.
-Adding a lexicographic preference
-for raising rivals’ costs, [Janssen and Karamychev](https://papers.tinbergen.nl/13027.pdf)
-show that the Vickrey-Clarke-Groves mechanism does not
-have dominant strategies.
-Prop. 4 in their paper claims that under
-certain conditions bidders will try to prolong the clock stage: “if
-other bidders do not change their bids if the clock phase lasts one more
-round, then the bidder under consideration prefers to prolong the clock
-phase by one round”. The bidder does this by delaying its “switch” from
-a parked non-final package that causes excess demand, to the final
-package which does not.
-However, the conditions under which Prop. 4 holds will not be exactly satisfied
-in any real auction.
+The papers
+Janssen and Karamychev -
+["Raising Rivals' Cost in Multi-unit Auctions"](https://homepage.univie.ac.at/maarten.janssen/auctions/Raising%20Rivals'%20Cost%20in%20Multi-unit%20Auctions-V1%2011V-Ref.pdf)
+and
+Janssen and Kasberger -
+["On the Clock of the Combinatorial Auction"](https://homepage.univie.ac.at/maarten.janssen/working%20papers/CCAclock0911.pdf)
+derive Bayesian Nash equilibria under gaming preferences and conclude that
+GARP is not violated in equilibrium gaming strategies.
+We note that the assumptions in these game models do not include all features
+of the CCAs under consideration e.g.
+discrete products, many bidders, public aggregate excess
+demand, revealed preference rule, initial EP limit,
+supplementary package limit, 50% mid-auction deposits.
 
 
 *Bids, budgets, and final prices*
