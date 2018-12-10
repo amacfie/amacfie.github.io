@@ -32,14 +32,15 @@ However, this concept may or may not see extensions to other problems.
 High frequency trading seems a natural domain for a computational view,
 but perhaps more information needs to come to light on its fundamental
 problems.
-Another possibility is arbitrage pricing where traders have both limited
-information and limited computational resources.
+One could imagine a concept of arbitrage pricing where traders have both
+limited information and limited computational resources.
 If there is only limited information, there is an excellent theory based
 on the Fundamental Theorem of Asset Pricing
 (see "The Mathematics of Arbitrage", by Delbaen and Schachermayer;
 and perhaps see also ["De Finetti was right: Probability does not
 exist"](http://www.brunodefinetti.it/bibliografia/definettiwasright.pdf) by
 Robert Nau).
-If pricing models are computationally nontrivial, computational resources
-could be a useful factor to model.
+For pricing models that are computationally nontrivial, there may be something
+interesting to say about short computations with the latest information
+versus longer, more accurate computations with older information.
 
