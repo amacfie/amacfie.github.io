@@ -434,3 +434,10 @@ a.pagination-item:hover {
   margin-top: -20px;
   margin-bottom: 10px;
 }
+
+p {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
