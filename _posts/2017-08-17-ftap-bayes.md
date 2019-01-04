@@ -12,7 +12,7 @@ On the other hand, the Fundamental Theorem of Asset Pricing proves that for
 prices to be arbitrage-free, they must be [conditional expectations](https://en.wikipedia.org/w/index.php?title=Conditional_expectation&oldid=858130631#Conditional_expectation_with_respect_to_a_sub-%CF%83-algebra).
 Details on the relevant results are found in
 "The Mathematics of Arbitrage", by Delbaen and Schachermayer.
-Having a consistent probability function has been [shown][bregman] to be
+Having a consistent probability function has been [shown][scoring] to be
 equivalent to minimizing a proper scoring rule.
 And conditional expectations have been [shown][bregman] to minimize
 Bregman divergences.
