@@ -3,7 +3,7 @@ layout: post
 title: "What's the probability of the Riemann Hypothesis?"
 ---
 
-Usually when we talk about probabilities, we have given certain information,
+Usually when we talk about probabilities, we have certain given information,
 which takes the form of a $$\sigma$$-algebra of possible events, and there is
 also a probability function that assigns values to each event.
 The rationality of a probability function is judged based on the relationships
