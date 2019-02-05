@@ -21,3 +21,6 @@ Mathematics needs
 Then again, most people get more value out of live lectures than I do, so
 my opinion may not be shared universally.
 
+Update: At conferences with short talks the speakers typically just try to
+cram the same material into a shorter time which just makes things worse.
+

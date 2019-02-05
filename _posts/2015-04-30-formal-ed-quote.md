@@ -3,7 +3,7 @@ layout: post
 title: Quotes of the day (Formal education edition)
 ---
 
-To put it mildly, I'm not a fan of school.
+To put it mildly, I'm not a fan of school (not including grad school).
 Rather than launch into a rant on the subject, which might be therapeutic if
 not pleasant, I'll let others do it for me; suffice it to say I really, really
 wish I went the autodidact route.
