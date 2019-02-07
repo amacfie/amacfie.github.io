@@ -39,7 +39,7 @@ paper](https://arxiv.org/pdf/1708.09032.pdf).
 In traditional Bayesianism there is a seemingly ineradicable source of
 subjectivity from the choice of prefix Turing machine used to define
 Solomonoff's prior.
-Any finite set of inputs can have arbitrary probabilities assigned.
+Any one input can be assigned a wide range of probabilities.
 Perhaps we are left with an analogous but different kind of subjectivity for
 mathematical probabilities.
 
