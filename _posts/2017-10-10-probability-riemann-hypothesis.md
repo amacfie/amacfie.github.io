@@ -43,4 +43,6 @@ Any one input can be assigned a wide range of probabilities.
 Perhaps we are left with an analogous but different kind of subjectivity for
 mathematical probabilities.
 
+![Andrew Critch]({{"/public/images/presentation.jpg" | absolute_url}})
+(Andrew Critch thinking about this in Berkeley.)
 
