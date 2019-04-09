@@ -49,7 +49,12 @@ where $$x \in \mathbb{R}^n$$.
 Then $$|\Delta(\lambda) \cap \mathbb{Z}|$$ is
 a polynomial in $$\lambda$$ of degree $$n$$.
 
-With integer coefficients we may take the difference $$\Delta(\lambda)
+Note that wlog $$\mathbf{b}$$ takes possible values $$-1,0,1$$.
+If not, multiply $$b_i$$ and $$[M]_{i,*}$$ by $$\textrm{lcm}(\mathbf{b})/b_i$$
+and set $$\lambda' = \lambda / \textrm{lcm}(\mathbf{b})$$.
+
+If $$\mathbf{b}$$ takes possible values $$-1,0,1$$,
+we may take the difference $$\Delta(\lambda)
 \setminus \Delta(\lambda -1)$$ to get solutions to an equality.
 
 ![image]({{"/public/images/lattice.png" | absolute_url}})
