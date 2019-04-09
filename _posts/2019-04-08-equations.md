@@ -44,9 +44,9 @@ $$\{ (x,y,z) : 3x + 5y + 17z \leq \lambda, x \geq 0, y \geq 0, z \geq 0 \}$$.
 
 [Theorem](http://mathworld.wolfram.com/EhrhartPolynomial.html):
 Let
-$$\Delta(\lambda) = \{ \mathbf{x}: M \mathbf{x} \leq \lambda\mathbf{b} \}$$,
-where $$x \in \mathbb{R}^n$$.
-Then $$|\Delta(\lambda) \cap \mathbb{Z}|$$ is
+$$\Delta(\lambda) = \{ \mathbf{x} \in \mathbb{Z}^n: M \mathbf{x} \leq
+\lambda\mathbf{b} \}$$.
+Then $$|\Delta(\lambda)|$$ is
 a polynomial in $$\lambda$$ of degree $$n$$.
 
 Note that wlog $$\mathbf{b}$$ takes possible values $$-1,0,1$$.
