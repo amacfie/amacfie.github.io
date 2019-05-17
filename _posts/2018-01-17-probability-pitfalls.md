@@ -16,60 +16,60 @@ Should you switch?
 Clearly there is no reason to switch (or not to switch) since the envelopes are
 blank and at no point do you learn anything new about their contents.
 However, the following argument seems to show you actually should switch.
-Let $$E$$ be the amount of money in the envelope chosen originally.
-The other envelope contains an amount of either $$2E$$ or $$E/2$$, each with
+Let $$X$$ be the amount of money in the envelope chosen originally.
+The other envelope contains an amount of either $$2X$$ or $$X/2$$, each with
 probability $$1/2$$.
 Thus the expected value of the other envelope is
 
-$$\frac{1}{2} (2E) + \frac{1}{2} (E/2) = \frac{5}{4} E > E.$$
+$$\frac{1}{2} (2X) + \frac{1}{2} (X/2) = \frac{5}{4} X > X.$$
 
 ...so you should switch?
 
 **Solution:**
 Whenever things get tricky, it's best to be as formal and methodical as
 possible.
-What do we actually mean by $$E$$?
-We're taking $$E$$ to be the amount of money in the envelope we choose
+What do we actually mean by $$X$$?
+We're taking $$X$$ to be the amount of money in the envelope we choose
 originally.
-That means $$E$$ is a random variable whose value depends on the random choice
+That means $$X$$ is a random variable whose value depends on the random choice
 of the original envelope.
-It's true that $$E$$ is equally likely to be either the smaller or larger amount.
+It's true that $$X$$ is equally likely to be either the smaller or larger amount.
 Let these be $$x$$ and $$2x$$.
 Then we need to find the expected value of the other envelope.
-Let the value of the other envelope be $$E'$$.
-Implicitly we are finding the expected value of $$E'$$ by conditioning
-on the value of $$E$$.
+Let the value of the other envelope be $$X'$$.
+Implicitly we are finding the expected value of $$X'$$ by conditioning
+on the value of $$X$$.
 There are two possibilities, and in each case we know what we get:
 
 $$
 \begin{align*}
-\mathbb{E}(E') &= \mathbb{P}(E' > E)\mathbb{E}(E' | E' > E)
-  + \mathbb{P}(E' < E)\mathbb{E}(E' | E' < E) \\
-  &= \frac{1}{2}\mathbb{E}(E' | E' > E)
-  + \frac{1}{2}\mathbb{E}(E' | E' < E)
+\mathbb{E}(X') &= \mathbb{P}(X' > X)\mathbb{E}(X' | X' > X)
+  + \mathbb{P}(X' < X)\mathbb{E}(X' | X' < X) \\
+  &= \frac{1}{2}\mathbb{E}(X' | X' > X)
+  + \frac{1}{2}\mathbb{E}(X' | X' < X)
 \end{align*}
 $$
 
-Note that depending on whether $$E' > E$$ or $$E' < E$$ the value of $$E$$ is
+Note that depending on whether $$X' > X$$ or $$X' < X$$ the value of $$X$$ is
 different.
-If $$E' > E$$, then $$E = x$$ and $$E' = 2E = 2x$$, and if $$E' < E$$, then $$E = 2x$$
-and $$E' = E/2 = x$$.
+If $$X' > X$$, then $$X = x$$ and $$X' = 2X = 2x$$, and if $$X' < X$$, then $$X = 2x$$
+and $$X' = X/2 = x$$.
 So,
 
 $$
 \begin{align*}
-\frac{1}{2}\mathbb{E}(E' | E' > E) + \frac{1}{2}\mathbb{E}(E' | E' < E)
-  &= \frac{1}{2}\mathbb{E}(E' | E'=2E) \\
-  &\qquad {} + \frac{1}{2}\mathbb{E}(E' | E'=E/2) \\
+\frac{1}{2}\mathbb{E}(X' | X' > X) + \frac{1}{2}\mathbb{E}(X' | X' < X)
+  &= \frac{1}{2}\mathbb{E}(X' | X'=2X) \\
+  &\qquad {} + \frac{1}{2}\mathbb{E}(X' | X'=X/2) \\
   &= \frac{1}{2}2x + \frac{1}{2}x \\
   &= \frac{3}{2}x \\
-  &= \mathbb{E}(E).
+  &= \mathbb{E}(X).
 \end{align*}
 $$
 
 Comparing with the pitfall solution, the key difference is that we cannot
-use the same symbol $$E$$ in two cases if our assumption about the value of
-$$E$$ is different in each case.
+use the same symbol $$X$$ in two cases if our assumption about the value of
+$$X$$ is different in each case.
 Tricky!
 
 ### Monty Hall problem
