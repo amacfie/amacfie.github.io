@@ -174,7 +174,7 @@ Since the diagnostic has 95% accuracy, then in my case I can conclude that
 the probability I have the disease is 95%.
 
 **Solution:**
-Let $$D$$ be the event I have the disease, and let $$P$$ be the event I recieve
+Let $$D$$ be the event I have the disease, and let $$P$$ be the event I receive
 a positive diagnosis.
 We seek $$\mathbb{P}(D|P)$$.
 Bayes's rule gives
