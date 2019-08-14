@@ -92,7 +92,9 @@ U of T cannons pointed at Ryerson
 
 ### [Kelly Library](https://goo.gl/maps/w32oRVh8oz82)
 
+<!--
 ![desk](https://kek.gg/i/7HY-Dy.jpg)
+-->
 
 |noise          | ?
 |power plugs    | yes
@@ -103,8 +105,10 @@ U of T cannons pointed at Ryerson
 
 ### [The Inforum (Faculty of Information)](https://goo.gl/maps/LSfZzsMeRk52)
 
+<!--
 ![view from above](https://kek.gg/i/372rmh.jpeg)
 ![table](https://kek.gg/i/dWxyf.jpg)
+-->
 
 |noise          | ?
 |power plugs    | yes
@@ -115,7 +119,9 @@ U of T cannons pointed at Ryerson
 
 ### East Asian Library
 
+<!--
 ![carrel](https://kek.gg/i/4FP_n3.jpg)
+-->
 
 |noise          | ?
 |power plugs    | no
