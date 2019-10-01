@@ -40,7 +40,8 @@ on the Fundamental Theorem of Asset Pricing
 and perhaps see also ["De Finetti was right: Probability does not
 exist"](http://www.brunodefinetti.it/bibliografia/definettiwasright.pdf) by
 Robert Nau).
-For pricing models that are computationally nontrivial, there may be something
-interesting to say about short computations with the latest information
-versus longer, more accurate computations with older information.
+For pricing models that are computationally nontrivial, we can ask e.g. whether
+viable (arbitrage-free) markets even exist when both information and
+computational resources are constrained.
+(See [this paper](https://arxiv.org/pdf/1708.09032.pdf#page=10).)
 
