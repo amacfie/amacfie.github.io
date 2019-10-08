@@ -31,5 +31,5 @@ If no, what is the character of belief aggregation in markets with
 computationally bounded Bayesian traders?
 
 (C.f. previous post
-["Computational complexity + finance = ?"](http://amacfie.github.io/2018/11/25/complexity_finance/)).
+["Computational complexity + finance = ?"](http://amacfie.github.io/2018/11/25/complexity_finance/).)
 
