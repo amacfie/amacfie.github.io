@@ -3,7 +3,7 @@ layout: post
 title: Belief aggregation with computational constraints
 ---
 
-Imagine a risk-neutral set of traders, each with a common prior and then
+Imagine a risk-neutral set of traders, each with a common prior which is
 updated with some private information.
 The traders buy and sell contingent claims until prices reach an equilibrium.
 The resultant prices are the conditional expectations of the terminal payoffs
