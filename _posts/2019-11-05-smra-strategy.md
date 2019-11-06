@@ -69,9 +69,10 @@ symmetric, or otherwise "makes sense" given the context of the auction.
     * Auction-based, industry-based info
     * E.g. split product units 50/50 if two bidders are expected to be
       interested
-  * Negotiation by sending signals within the auction: presumably cheap talk in
-    this context, but it happens. Much noise little signal in auctions where
-    bids are constrained and only excess demand is revealed each round.
+  * Negotiation by sending signals within the auction
+    * Presumably cheap talk in this context, but it happens
+    * Much noise little signal in auctions where bids are constrained
+      or hidden
   * If there is an activity rule, once you've submitted low demand, there is no
     way to increase without decreasing somewhere else
 * Competition
