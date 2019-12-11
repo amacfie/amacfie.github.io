@@ -102,8 +102,8 @@ What if we could find a way to factor like this:
 <!-- actually a dot product -->
 `\(
   \log p(\mathbf{y} | \mathbf{X}, \mathbf{\theta}) =
-  \sum_{n=1}^N f(\theta) g(x_n, y_n) =
-  f(\theta) \sum_{n=1}^N g(x_n, y_n)
+  \sum_{n=1}^N f(\theta) \cdot g(x_n, y_n) =
+  f(\theta) \cdot \sum_{n=1}^N g(x_n, y_n)
 \)`
 
 So compute `\(\sum_{n=1}^N g(x_n, y_n)\)` once then
@@ -130,7 +130,7 @@ Again,
   \sum_{n=1}^N \log \text{logistic}(y_n x_n \cdot \mathbf{\theta})
   \approx
   \sum_{n=1}^N \text{poly}(y_n x_n \cdot \mathbf{\theta}) \\ =
-  f(\theta) \sum_{n=1}^N g(x_n, y_n)
+  f(\theta) \cdot \sum_{n=1}^N g(x_n, y_n)
 \)`
 
 <br />
