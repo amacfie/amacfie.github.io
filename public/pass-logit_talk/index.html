@@ -50,12 +50,7 @@ Outputs `\(\mathbf{y} = (y_n)_{n=1}^N\)`, where `\(y_n = \pm 1\)`
 Model parameters `\(\mathbf{\theta} \in \mathbb{R}^d\)`
 
 Logistic regression model:
-`\(
-  p(\mathbf{y} | \mathbf{X}, \mathbf{\theta}) =
-  \prod_{n=1}^N p(y_n | x_n, \theta) =
-  \prod_{n=1}^N \text{logistic}(y_n x_n \cdot \mathbf{\theta}),
-\)`
-
+`\(P(y_n=1 | x_n, \theta) = \text{logistic}(x_n \cdot \theta),\)`
 
 .cols[
   .fifty[
@@ -66,6 +61,14 @@ Logistic regression model:
     <img src="logistic.png" width="50%" />
   ]
 ]
+
+Likelihood fn:
+`\(
+  p(\mathbf{y} | \mathbf{X}, \mathbf{\theta}) =
+  \prod_{n=1}^N p(y_n | x_n, \theta) =
+  \prod_{n=1}^N \text{logistic}(y_n x_n \cdot \mathbf{\theta})
+\)`
+
 
 Bayes rule (hard to compute):
 `\(
