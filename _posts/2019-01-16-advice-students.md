@@ -18,7 +18,7 @@ title: "Advice for students"
   Getting a programming job doesn't require a degree. If you need an
   academic credential, write a paper with a professor and get it published.
   Professors will be glad to work with young people they don't have to pay,
-  and the mentorship will be valuable.
+  and the mentorship will be valuable for you.
   This strategy could get you into a grad school if you're interested,
   depending on the circumstances.
   On the other hand, undergrad is useful for the social network, which is much
