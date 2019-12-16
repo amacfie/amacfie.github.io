@@ -5,8 +5,8 @@ title: "Advice for students"
 
 * Be challenged. Seek material at the level and pace appropriate for you.
   Learn with people who aren't all dumber than you.
-* If you're motivated to learn/build something, do it. If you're not motivated,
-  don't force yourself.
+* If you're motivated to learn or build something, do it. If you're not
+  motivated, don't force yourself.
 * Don't be afraid of the unknown. Just because a topic is advanced or
   is in an unfamiliar field doesn't mean it's difficult to learn; go for it.
 * Some things can't be learned from textbooks because the textbooks don't
@@ -15,21 +15,21 @@ title: "Advice for students"
   of John von Neumann,
   "Young man, in mathematics you don't understand things. You just get used to
   them."
-* Don't do undergrad if you don't need to. Subjects like math, computer
+* There's nothing wrong with funding your studies by borrowing against future
+  earnings as long as you're not overpaying for your education. Internships
+  are great too.
+* Don't do undergrad if you don't need to. Subjects like mathematics, computer
   science, and economics can be learned conveniently and effectively
-  using books, videos, and other resources from the internet. For some
-  people, autodidacticism is very efficient.
-  If you do have to take classes, ideally learn the material beforehand
-  (paradoxical as that sounds).
-  Getting a programming job doesn't require a degree. If you need an
-  academic credential, write a paper with a professor and get it published.
-  Professors will be glad to work with young people they don't have to pay,
-  and the mentorship will be valuable for you.
-  With just publications and reference letters applying to grad school is an
-  option.
+  using books, videos, and other resources from the internet.
+  If you need an academic credential, write a paper with a professor in your
+  city and get it published.
+  The mentorship will be valuable and with just publications and reference
+  letters applying to grad school is an option.
+* If you formally take a course, ideally learn the material by yourself
+  beforehand (paradoxical as that sounds).
 * Don't go to a bad grad school. At the graduate level, low-status schools
   have poor funding, low research activity, and few students.
-* Get a supervisor who is unambiguously an expert in the field.
+* Get a thesis supervisor who is unambiguously an expert in the field.
 * Attend economics seminars because they're a blast.
 
 <!--
