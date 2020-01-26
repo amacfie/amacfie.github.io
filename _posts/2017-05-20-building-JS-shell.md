@@ -129,7 +129,7 @@ Now we get
 
     $ mysh
     > pwd()
-    \tmp
+    /tmp
 
 Much better.
 However, since the `echo` function prints its argument to the console _and_
