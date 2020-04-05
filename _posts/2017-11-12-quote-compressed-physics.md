@@ -19,5 +19,3 @@ title: "Quote of the day: Physics"
 >
 >-Edward Witten, ["Physics and Geometry", 1986](http://www.mathunion.org/ICM/ICM1986.1/Main/icm1986.1.0267.0306.ocr.pdf)
 
-via [E. Weinstein](https://twitter.com/EricRWeinstein/status/928296366853328896)
-
