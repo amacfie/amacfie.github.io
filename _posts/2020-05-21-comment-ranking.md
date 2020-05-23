@@ -149,7 +149,7 @@ Ranking algorithm                | Average number of upvotes per visitor
 _Upvote probability_ | 0.978
 _Modified Bayes_       | 0.916
 Hacker News          | 0.899
-Bayesian average     | 0.878
+_Bayesian average_     | 0.878
 _Difference_         | 0.848
 Reddit               | 0.836
 _Ratio_              | 0.813
@@ -159,7 +159,5 @@ _Random_             | 0.607
 
 So YouTube is marginally better than _random_, Reddit is worse than the simple _difference_, and
 Hacker News is the only one of the three better than _Bayesian average_.
-Both disappointing and plausible, but are the results general or just an artifact of
-the model?
+Disappointing but also plausible. How generalizable are the results?
 As always, more work required...
-
