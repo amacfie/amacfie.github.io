@@ -140,6 +140,8 @@ We use the value $$n_p=7$$ in the simulations.
 
 ## Ranking the rankings
 
+I did enough simulation runs (1000-20000) with each formula
+to be pretty confident about how they compare.
 Without further ado, voila:
 
 Ranking algorithm                | Average number of upvotes per visitor
@@ -154,12 +156,10 @@ _Ratio_              | 0.813
 YouTube              | 0.644
 _Random_             | 0.607
 
-NB The averages aren't exact -- I only did enough runs with each formula
-to be pretty confident about how they compare.
 
-So Reddit and YouTube perform worse than the simple _difference_, and
+So YouTube is marginally better than _random_, Reddit is worse than the simple _difference_, and
 Hacker News is the only one of the three better than _Bayesian average_.
-Seems reasonable to me but are the results general or just an artifact of
+Both disappointing and plausible, but are the results general or just an artifact of
 the model?
 As always, more work required...
 
