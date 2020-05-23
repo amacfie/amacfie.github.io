@@ -145,7 +145,7 @@ Without further ado, voila:
 Ranking algorithm                | Average number of upvotes per visitor
 |-
 _Upvote probability_ | 0.978
-Modified Bayes       | 0.916
+_Modified Bayes_       | 0.916
 Hacker News          | 0.899
 Bayesian average     | 0.878
 _Difference_         | 0.848
