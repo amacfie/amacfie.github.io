@@ -67,6 +67,7 @@ class HN(Scorer):
         return (comment.num_up - comment.num_down) / (age+2)**self.gravity
 
 # https://stackoverflow.com/questions/27781751/what-is-youtube-comment-system-sorting-ranking-algorithm
+# not sure if this is correct: is it (1/3)*(s/10+a) or 1/(3*(s/10+a))?
 class YouTube(Scorer):
     def score(self, comment: 'Comment', t: float):
         if comment.num_up + comment.num_down == 0:
@@ -76,7 +77,7 @@ class YouTube(Scorer):
         c = ratio
         s = t * 60
         a = (t - comment.created_at) * 60
-        x = (1/3) * (s/10 + a) * abs(a-3*s)
+        x = 1/3 * (s/10 + a) * abs(a-3*s)
         n = x * (c/4 + 1)
         return n
 
