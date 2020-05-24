@@ -60,7 +60,7 @@ Here we use the following symbols
 
 
 All ranking methods in our analysis rank comments by scoring each comment
-and in descending order.
+and sorting in descending order.
 The scores are determined by the formulas below.
 
 Starting with the basics, we have the _ratio_
