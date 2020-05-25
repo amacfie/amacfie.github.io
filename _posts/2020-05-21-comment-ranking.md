@@ -63,7 +63,7 @@ Here we use the following symbols
 
 
 All ranking methods in our analysis rank comments by scoring each comment
-and in descending order.
+and sorting in descending order.
 The scores are determined by the formulas below.
 
 Starting with the basics, we have the _ratio_
@@ -143,6 +143,8 @@ We use the value $$n_p=7$$ in the simulations.
 
 ## Ranking the rankings
 
+I did enough simulation runs (1000-20000) with each formula
+to be pretty confident about how they compare.
 Without further ado, voila:
 
 Ranking algorithm                | Average number of upvotes per visitor
@@ -150,19 +152,15 @@ Ranking algorithm                | Average number of upvotes per visitor
 _Upvote probability_ | 0.978
 _Modified Bayes_       | 0.916
 Hacker News          | 0.899
-Bayesian average     | 0.878
+_Bayesian average_     | 0.878
 _Difference_         | 0.848
 Reddit               | 0.836
 _Ratio_              | 0.813
 YouTube              | 0.644
 _Random_             | 0.607
 
-NB The averages aren't exact -- I only did enough runs with each formula
-to be pretty confident about how they compare.
 
-So Reddit and YouTube perform worse than the simple _difference_, and
+So YouTube is marginally better than _random_, Reddit is worse than the simple _difference_, and
 Hacker News is the only one of the three better than _Bayesian average_.
-Seems reasonable to me but are the results general or just an artifact of
-the model?
+Disappointing but also plausible. How generalizable are the results?
 As always, more work required...
-
