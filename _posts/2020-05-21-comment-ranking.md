@@ -41,12 +41,14 @@ See [Python source code](https://github.com/amacfie/amacfie.github.io/tree/maste
 for full details.
 
 Of course this is not a perfect model of every comment section.
-Some of these parameters will be inappropriate in some cases.
+These parameter values will not always be accurate, although I did play
+around with e.g. the commenter/voter probability and the probabilities
+of a voter leaving and got basically the same final conclusions.
 Realistically the rate of visitors may vary over time.
 A voter's probability of leaving after a certain comment conditional on the
 most recent (non-)vote may also depend on how many comments they've already
 read.
-Comment threads are not represented.
+Comment threads are not represented here.
 Vote probabilities may change over time.
 Et cetera, et cetera.
 
