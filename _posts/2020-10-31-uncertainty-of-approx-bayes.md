@@ -22,8 +22,8 @@ What is $$P\left(f(a)=x \,|\, a, \tilde{f}(a)\right)$$?
 Well, if $$f$$ is hard to compute then we probably can't gather much data, so
 our options are:
 * some sort of prior, treating the approximation as random from the space
-  of approximations
-* average-case analysis of $$\tilde{f}$$
+  of approximations;
+* average-case analysis of $$\tilde{f}$$.
 
 Note that if the mean of the pmf $$P(f(a)=\cdot \,|\, a, \tilde{f}(a))$$
 is $$f(a)$$ then $$P(X = a \,|\, \text{we only compute } \tilde{f}) =  P(X=a)$$.
@@ -52,7 +52,7 @@ they're both uniform distributed on some "large" discrete interval
 -->
 
 (We assume the location of the atom is a priori uniformly distributed on a
-large lattice.)
+large integer interval.)
 For more theory see
 [this post](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/).
 
