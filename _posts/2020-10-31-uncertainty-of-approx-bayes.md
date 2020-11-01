@@ -37,9 +37,22 @@ $$\tilde{f}(x) = f(x + Y - 5)$$, where
 $$Y \sim {\rm B{\small IN}}(10, 1/2)$$.
 If $$\tilde{f}(0) = 1$$, then
 
-$$P(X=0 \,|\, \text{we only compute } \tilde{f})
-= \binom{10}{5} 2^{-10} \doteq 0.246.$$
+$$
+\begin{align*}
+P(X=0 \,|\, \text{we only compute } \tilde{f})
+&= P(f(0) = 1 \,|\, \tilde{f}(0) = 1) \\
+&\approxeq P(\tilde{f}(0) = 1 \,|\, f(0) = 1) \\
+&=\binom{10}{5} 2^{-10} \doteq 0.246.
+\end{align*}
+$$
 
-For more rigor see
+<!--
+technically P(A|B) = P(B|A)P(A)/P(B) but we're assuming P(A)=P(B) because
+they're both uniform distributed on some "large" discrete interval
+-->
+
+(We assume the location of the atom is a priori uniformly distributed on a
+large lattice.)
+For more theory see
 [this post](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/).
 
