@@ -12,7 +12,7 @@ If we approximate $$f$$ by $$\tilde{f}$$ then
 
 $$
 \begin{align*}
-P(X = a \,|\, \text{we only compute } \tilde{f})
+P\left(X = a \,|\, \text{we only compute } \tilde{f}\right)
 &= \sum_x x P \left(f(a)=x \,|\, a, \tilde{f}(a) \right)\\
 &= E\left(f(a) \,|\, a, \tilde{f}(a) \right)
 \end{align*}
