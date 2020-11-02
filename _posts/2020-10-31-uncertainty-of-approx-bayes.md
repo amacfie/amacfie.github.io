@@ -21,16 +21,16 @@ $$
 What is $$P\left(f(a)=x \,|\, a, \tilde{f}(a)\right)$$?
 Well, if $$f$$ is hard to compute then we probably can't gather much data, so
 our options are:
+* average-case analysis of $$\tilde{f}$$, which is unlikely to be available;
 * some sort of prior, treating the approximation as random from the space
-  of approximations;
-* average-case analysis of $$\tilde{f}$$.
+  of approximations, i.e. just quantify your subjective beliefs as they are.
 
 Note that if the mean of the pmf $$P(f(a)=\cdot \,|\, a, \tilde{f}(a))$$
 is $$f(a)$$ then $$P(X = a \,|\, \text{we only compute } \tilde{f}) =  P(X=a)$$.
 So accounting for uncertainty due to approximation is equivalent to
 "de-biasing" it.
 
-Example:
+_Example:_
 Suppose $$f$$ has a single atom and our approximation $$\tilde{f}$$ is
 modeled as $$f$$ shifted by some unknown amount:
 $$\tilde{f}(x) = f(x + Y - 5)$$, where
@@ -46,13 +46,12 @@ P(X=0 \,|\, \text{we only compute } \tilde{f})
 \end{align*}
 $$
 
-<!--
-technically P(A|B) = P(B|A)P(A)/P(B) but we're assuming P(A)=P(B) because
-they're both uniform distributed on some "large" discrete interval
--->
+(The approximate equality holds if, say, we assume the location of the atom is
+a priori uniformly distributed on a large integer interval.)
 
-(We assume the location of the atom is a priori uniformly distributed on a
-large integer interval.)
-For more theory see
-[this post](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/).
+Is this ultimately rigorous in a decision theoretic sense? I don't think
+so, but
+[what is rigorous](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/)
+is mathematically intractable.
+So whatever, it's a heuristic.
 
