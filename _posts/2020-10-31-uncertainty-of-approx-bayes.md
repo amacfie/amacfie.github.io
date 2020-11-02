@@ -22,7 +22,8 @@ What is $$P\left(f(a)=x \,|\, a, \tilde{f}(a)\right)$$?
 Well, if $$f$$ is hard to compute then we probably can't gather much data, so
 our options are:
 * average-case analysis of $$\tilde{f}$$, which is unlikely to be available;
-* subjective beliefs based on reference classes, worst-case bounds, etc.
+* subjective beliefs, which may be informed by reference classes, worst-case
+  bounds, etc.
 
 Note that if the mean of the pmf $$P(f(a)=\cdot \,|\, a, \tilde{f}(a))$$
 is $$f(a)$$ then $$P(X = a \,|\, \text{we only compute } \tilde{f}) =  P(X=a)$$.
