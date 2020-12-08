@@ -7,7 +7,7 @@ title: Modeling aesthetics in mathematics
 >
 >-Yuri Manin, _A Course in Mathematical Logic for Mathematicians_
 
->above all, [mathematics's] adepts find therein delights analogous to those
+>above all, adepts [of mathematics] find therein delights analogous to those
 >given by
 >painting and music. They admire the delicate harmony of numbers and forms; they
 >marvel when a new discovery opens to them an unexpected perspective; and has
