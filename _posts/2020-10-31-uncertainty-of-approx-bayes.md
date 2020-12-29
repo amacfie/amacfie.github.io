@@ -52,6 +52,6 @@ a priori uniformly distributed on a large integer interval.)
 Is this ultimately rigorous in a decision theoretic sense? I don't think so,
 but
 [what is rigorous](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/)
-is usually mathematically intractable.
+can easily be mathematically intractable.
 So whatever, it's a heuristic.
 
