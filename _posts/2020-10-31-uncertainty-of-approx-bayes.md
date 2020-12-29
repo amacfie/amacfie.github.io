@@ -21,7 +21,7 @@ $$
 What is $$P\left(f(a)=x \,|\, a, \tilde{f}(a)\right)$$?
 Well, if $$f$$ is hard to compute then we probably can't gather much data, so
 our options are:
-* average-case analysis of $$\tilde{f}$$, which is usually unavailable;
+* average-case analysis of $$\tilde{f}$$, which is unlikely to be available;
 * subjective beliefs, which may be informed by reference classes, worst-case
   bounds, etc.
 
