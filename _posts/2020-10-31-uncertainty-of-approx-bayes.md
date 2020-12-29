@@ -21,7 +21,7 @@ $$
 What is $$P\left(f(a)=x \,|\, a, \tilde{f}(a)\right)$$?
 Well, if $$f$$ is hard to compute then we probably can't gather much data, so
 our options are:
-* average-case analysis of $$\tilde{f}$$, which is unlikely to be available;
+* average-case analysis of $$\tilde{f}$$, which is usually unavailable;
 * subjective beliefs, which may be informed by reference classes, worst-case
   bounds, etc.
 
@@ -49,9 +49,9 @@ $$
 (The approximate equality holds if, say, we assume the location of the atom is
 a priori uniformly distributed on a large integer interval.)
 
-Is this ultimately rigorous in a decision theoretic sense? I don't think
-so, but
+Is this ultimately rigorous in a decision theoretic sense? I don't think so,
+but
 [what is rigorous](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/)
-is mathematically intractable.
+is usually mathematically intractable.
 So whatever, it's a heuristic.
 
