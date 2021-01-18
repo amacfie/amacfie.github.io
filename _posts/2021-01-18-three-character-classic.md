@@ -23,7 +23,7 @@ https://www.imo-official.org/country_hall.aspx?code=CHN
 >
 >Chao, when he held the office of Chung-ling, read Sun-yu. Though filling so
 >high a situation, he yet learned diligently -- so much so, that he never laid
->the book out of his hand
+>the book out of his hand.
 >
 >In the time of the emperor Sung, Lu-wen-shu was constantly looking over the
 >books engraven on leaves.
@@ -71,7 +71,7 @@ https://www.imo-official.org/country_hall.aspx?code=CHN
 >Chin-tung, a remarkable lad, was raised by the emperor to fill the office of
 >Ching-tsi. He, though a youth, was made a public officer. Do you, youths,
 >exert yourselves to learn, and you may arrive at the same. Let all who make
->learning their pursuit be as those persons whome we have mentioned.
+>learning their pursuit be as those persons whom we have mentioned.
 >
 >It is natural for a dog to watch at night, and for a cock to crow in the
 >morning; if anyone does not learn, how can he be called a man?
