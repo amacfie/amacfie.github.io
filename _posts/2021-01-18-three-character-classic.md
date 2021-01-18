@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Confucian virtue of scholarship"
+title: "The Confucian virtue of learning"
 ---
 
 The Three Character Classic is a 13th century Chinese text with three
