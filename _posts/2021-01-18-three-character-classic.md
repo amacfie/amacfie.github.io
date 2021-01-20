@@ -4,7 +4,7 @@ title: "The Confucian virtue of learning"
 ---
 
 The Three Character Classic is a 13th century Chinese text with three
-characters per line traditionally read by children.
+characters per line which is traditionally read by children.
 Below is an excerpt from the 1812
 [translation](https://play.google.com/books/reader?id=YC4OAAAAIAAJ)
 by Robert Morrison, Presbyterian missionary and author of the first
