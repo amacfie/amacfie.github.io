@@ -14,3 +14,6 @@ Computer algebra is useful but discovering new algorithms is hard.
 Bruno Salvy was skeptical when I suggested AI methods in 2012 but
 [deep learning](https://arxiv.org/abs/1912.01412) may help.
 
+As Robin Hanson and Steve Levitt say, life is long. There's lots of time to
+do lots of different things.
+
