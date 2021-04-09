@@ -49,6 +49,12 @@ $$
 (The approximate equality holds if, say, we assume the location of the atom is
 a priori uniformly distributed on a large integer interval.)
 
+Note that this is not completely new. E.g. when [inferring how likely it is
+that software is bug-free based on a finite set of
+tests](https://www.nist.gov/publications/software-testing-statistical-methods-preliminary-success-estimates-approaches-based-0),
+we are putting probability distributions on mathematically determined
+statements, assuming the software is deterministic.
+
 Is this ultimately rigorous in a decision theoretic sense? I don't think so,
 but
 [what is rigorous](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/)
