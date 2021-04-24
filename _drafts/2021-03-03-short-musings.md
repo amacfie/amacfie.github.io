@@ -32,3 +32,8 @@ Beauty is subjective and calling your product "beautiful" is pretentious.
 Juergen Schmidhuber is right and Tyler Cowen is wrong: China will surpass
 the US in dominance this century.
 
+Geoffrey Miller and Robin Hanson have different views on what people are
+signaling when they engage in politics: Miller says personal traits and
+Hanson says tribal loyalty. Presumably it's some of each but I find Miller
+more convincing.
+
