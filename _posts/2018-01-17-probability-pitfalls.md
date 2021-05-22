@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Classic probability puzzles and their solutions"
+excerpt_separator: <!--more-->
 ---
 
 ### Envelope paradox
@@ -11,6 +12,8 @@ One envelope contains twice as much as the other.
 You may choose an envelope and keep the money it contains.
 After choosing, you have the option to switch for the other envelope.
 Should you switch?
+
+<!--more-->
 
 **Pitfall:**
 Clearly there is no reason to switch (or not to switch) since the envelopes are
