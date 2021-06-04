@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Short musings"
----
+--- 
+
+WHEN DONE, make gh pages custom domain andrew222651.com
 
 When I was 17 my lowest grade was in math and I thought I wasn't good at it.
 One year later I was obsessed with it.
