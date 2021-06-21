@@ -41,3 +41,6 @@ rational and meditation is about signaling who's a better meditator. This is
 where his cynicism goes too far. But I criticize him because I love him:
 Hanson is the most interesting blogger there is.
 
+The rapid decision-making abilities of basketball and soccer players impress me
+as much as the physical.
+
