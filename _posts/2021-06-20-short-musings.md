@@ -37,9 +37,10 @@ Hanson says tribal loyalty. Presumably it's some of each but I find Miller
 more convincing.
 
 Robin Hanson says the "rationality community" is about signaling who's more
-rational and meditation is about signaling who's a better meditator. This is
-where his cynicism goes too far. But I criticize him because I love him:
-Hanson is the most interesting blogger there is.
+rational and meditation is about signaling who's a better meditator.
+This is an example of meta-contrarianism at one too many levels of meta.
+(But I criticize him because I love him:
+Hanson is the most interesting blogger there is.)
 
 The rapid decision-making abilities of basketball and soccer players impress me
 as much as the physical.
