@@ -25,8 +25,8 @@ As Robin Hanson and Steve Levitt say, life is long. There's lots of time to
 do lots of different things.
 
 Re: [Where are All the Successful Rationalists?](https://applieddivinitystudies.com/2020/09/05/rationality-winning/),
-rationality should be treated as a scientific concept found in AI, finance, and
-statistics, not primarily as a self-help technique.
+rationality is an important scientific concept in AI, finance, and statistics;
+its value as a self-help technique is not so clear.
 
 Beauty is subjective and calling your product "beautiful" is pretentious.
 
