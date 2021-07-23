@@ -26,3 +26,4 @@ pages_list:
 
 plugins: [jekyll-paginate]
 
+theme:
