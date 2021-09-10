@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 if [ "$#" -ne 1 ]; then
   echo "Pass the post name filename suffix"
   exit 1
@@ -11,5 +11,5 @@ echo "layout: post" >> $fn
 echo "title: <ENTER TITLE HERE>" >> $fn
 echo "---" >> $fn
 printf "\n" >> $fn
-vi $fn -c "normal zR3ggf<vf>"
+nvim $fn -c "normal zR3ggf<vf>"
 
