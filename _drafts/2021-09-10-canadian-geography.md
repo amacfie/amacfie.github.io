@@ -11,3 +11,5 @@ mainland Canada extends south to the same latitude as Fort Jones, California
 Victoria, BC has a ["warm-summer Mediterranean climate"](https://en.wikipedia.org/wiki/Mediterranean_climate#Warm-summer_Mediterranean_climate)
 like Porto, Portugal and Cape Town, South Africa.
 
+Canada's most picturesque spot is Lake Louise
+
