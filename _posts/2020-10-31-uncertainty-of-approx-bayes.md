@@ -56,8 +56,8 @@ we are putting probability distributions on mathematically determined
 statements, assuming the software is deterministic.
 
 Inference is approximated for computational reasons in many places such as
-linearization mentioned above, clustering by compression using a zip algorithm
-(instead of computing Kolmogorov complexity), and PASS-GLM.
+linearization as mentioned already, clustering by compression using a zip
+algorithm (instead of computing Kolmogorov complexity), PASS-GLM, et cetera.
 
 Is this ultimately rigorous in a decision theoretic sense? I don't think so,
 but
