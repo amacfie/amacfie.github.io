@@ -55,6 +55,10 @@ tests](https://www.nist.gov/publications/software-testing-statistical-methods-pr
 we are putting probability distributions on mathematically determined
 statements, assuming the software is deterministic.
 
+Inference is approximated for computational reasons in many places such as
+linearization mentioned above, clustering by compression using a zip algorithm
+(instead of computing Kolmogorov complexity), and PASS-GLM.
+
 Is this ultimately rigorous in a decision theoretic sense? I don't think so,
 but
 [what is rigorous](http://amacfie.github.io/2017/10/10/probability-riemann-hypothesis/)
