@@ -41,8 +41,4 @@ mathematics) and industry (engineering or software development).
 * _Secondary activities_: Academics are loaded with non-research duties
   that may even eclipse their research altogether. The typical engineer does
   "engineering" all day every day.
-* _Rhythm_: It's normal to work roughly 9-5 office hours as an engineer.
-  This allows for a stable, predictable life rhythm. Researchers, depending
-  on their topic, get bursts of progress at unpredictable times. Work sessions
-  can go late in the evening, or last the whole day.
 
