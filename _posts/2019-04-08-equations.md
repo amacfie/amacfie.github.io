@@ -5,6 +5,7 @@ title: "Counting solutions to equations"
 
 There are $$\binom{n-1}{m-1}$$ integer compositions of $$n$$ with $$m$$
 parts.
+Complex polynomials of degree $$n$$ have $$n$$ zeros, counting multiplicity.
 Where else do we count solutions to equations?
 Our criteria are that the equations must be parametrized, and that for each
 parameter value there is a finite solution set.
