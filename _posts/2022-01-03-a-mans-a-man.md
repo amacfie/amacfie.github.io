@@ -56,12 +56,12 @@ On the occasion of [Nima Hoda](https://www.math.ens.psl.eu/~hoda/)'s wedding.
 Modern English:
 
 >Should honest poor hang their heads? <br />
->We pass by the coward who is ashamed of his poverty <br />
+>We pass by the coward ashamed of his poverty <br />
 >We dare be poor despite all that! <br />
 >Despite all that, and all that, <br />
 >Our humble work, and all that, <br />
 >Aristocratic rank is but the form that gold is cast into, <br />
->The man himself is the gold.
+>The man himself is the gold, despite all that.
 >
 >So what if we dine on homely fare, <br />
 >Wear rough grey tweed, and all that? <br />
@@ -91,7 +91,7 @@ Modern English:
 >Are higher rank than all that.
 >
 >Then let us pray that it may come <br />
->(As come it will despite all that) <br />
+>(And it will come despite all that) <br />
 >That sense and merit over all the earth <br />
 >Will prevail and all that! <br />
 >Despite all that, and all that, <br />
