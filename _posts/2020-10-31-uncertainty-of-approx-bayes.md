@@ -26,7 +26,7 @@ there are various options to produce a subjective belief:
   probabilistic numerics
 * reference classes of "similar" cases
 * uniform distribution across worst-case bounds
-* past experience
+* past empirical experience
 * etc.
 
 Note that if the mean of the pmf $$P(f(a)=\cdot \,|\, a, \tilde{f}(a))$$
