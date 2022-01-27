@@ -4,7 +4,8 @@ title: Uncertainty due to computational approximation in Bayesian inference
 ---
 
 In Bayesian inference, we can factor approximate computation (e.g.
-linearization) into the actual posterior probabilities.
+linearization, numerical methods, approximation algorithms) into the actual
+posterior probabilities.
 
 Suppose we have a [pmf](https://en.wikipedia.org/wiki/Probability_mass_function)
 $$f(x) = P(X=x)$$ which is hard to compute.
@@ -20,10 +21,13 @@ $$
 
 What is $$P\left(f(a)=x \,|\, a, \tilde{f}(a)\right)$$?
 Well, if $$f$$ is hard to compute then we probably can't gather much data, so
-our options are:
-* average-case analysis of $$\tilde{f}$$, which is unlikely to be available;
-* subjective beliefs, which may be informed by reference classes, worst-case
-  bounds, etc.
+there are various options to produce a subjective belief:
+* average-case analysis of $$\tilde{f}$$ with an uninformed prior, e.g.
+  probabilistic numerics
+* reference classes of "similar" cases
+* uniform distribution across worst-case bounds
+* past experience
+* etc.
 
 Note that if the mean of the pmf $$P(f(a)=\cdot \,|\, a, \tilde{f}(a))$$
 is $$f(a)$$ then $$P(X = a \,|\, \text{we only compute } \tilde{f}) =  P(X=a)$$.
