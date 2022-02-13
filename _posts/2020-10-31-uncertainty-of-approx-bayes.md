@@ -4,7 +4,7 @@ title: Uncertainty due to computational approximation in Bayesian inference
 ---
 
 In Bayesian inference, we can factor approximate computation (e.g.
-linearization, numerical methods, approximation algorithms) into the actual
+linearization) into the actual
 posterior probabilities.
 
 Suppose we have a [pmf](https://en.wikipedia.org/wiki/Probability_mass_function)
@@ -61,7 +61,9 @@ statements, assuming the software is deterministic.
 
 Inference is approximated for computational reasons in many places such as
 linearization as mentioned already, clustering by compression using a zip
-algorithm (instead of computing Kolmogorov complexity), PASS-GLM, et cetera.
+algorithm (instead of computing Kolmogorov complexity), PASS-GLM, MCMC
+sampling, numerical methods, approximation algorithms,
+et cetera.
 
 Is this ultimately rigorous in a decision theoretic sense? I don't think so,
 but
