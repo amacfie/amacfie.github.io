@@ -28,8 +28,6 @@ Re: [Where are All the Successful Rationalists?](https://applieddivinitystudies.
 rationality is an important scientific concept in AI, finance, and statistics;
 its value as a self-help technique is not so clear.
 
-Beauty is subjective and calling your product "beautiful" is pretentious.
-
 Juergen Schmidhuber is right and Tyler Cowen is wrong: China will surpass
 the US in dominance this century.
 
