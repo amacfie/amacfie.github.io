@@ -28,8 +28,6 @@ Re: [Where are All the Successful Rationalists?](https://applieddivinitystudies.
 rationality is an important scientific concept in AI, finance, and statistics;
 its value as a self-help technique is not so clear.
 
-Beauty is subjective and calling your product "beautiful" is pretentious.
-
 Juergen Schmidhuber is right and Tyler Cowen is wrong: China will surpass
 the US in dominance this century.
 
@@ -41,8 +39,10 @@ more convincing.
 Robin Hanson says meditation is about signaling who's a better meditator.
 This is an example of meta-contrarianism at one too many levels of meta.
 
-Robin Hanson is the most interesting blogger there is.
+[Here](http://mason.gmu.edu/~rhanson/gamblesuits.html) Robin Hanson
+proposes a much more efficient method of small claims resolution.
+The Enlightenment was about such ideas: approaching economic problems
+rationally where previously no one realized there was a problem.
 
 The rapid decision-making abilities of basketball and soccer players impress me
 as much as the physical.
-
