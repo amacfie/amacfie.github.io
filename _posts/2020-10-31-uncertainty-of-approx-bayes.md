@@ -62,8 +62,8 @@ statements, assuming the software is deterministic.
 Inference is approximated for computational reasons in many places such as
 linearization as mentioned already, clustering by compression using a zip
 algorithm (instead of computing Kolmogorov complexity), PASS-GLM, MCMC
-sampling, numerical methods, approximation algorithms,
-et cetera.
+sampling, numerical methods, approximation algorithms, probabilistic
+data structures, et cetera.
 
 Is this ultimately rigorous in a decision theoretic sense? I don't think so,
 but
