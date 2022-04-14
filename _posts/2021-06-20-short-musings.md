@@ -46,3 +46,10 @@ rationally where previously no one realized there was a problem.
 
 The rapid decision-making abilities of basketball and soccer players impress me
 as much as the physical.
+
+"Up to 40%" of travelers from developed to developing countries get travelers'
+diarrhea; "in the normal population 1% to 2% of persons per year will develop
+irritable bowel syndrome (IBS), and 5% to 6% of travelers after traveler’s
+diarrhea will develop IBS"; and "the prevalence of depression and anxiety in
+IBS patients is 37.1 and 31.4% respectively".
+
