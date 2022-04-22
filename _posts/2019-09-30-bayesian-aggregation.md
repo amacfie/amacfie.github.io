@@ -10,10 +10,10 @@ The resultant prices are the conditional expectations of the terminal payoffs
 under a probability measure $$\mathbb{P}$$.
 Is $$\mathbb{P}$$ equal to the posterior obtained by updating the
 common prior with the combined private information?
-Roughly speaking,
+At least under certain conditions,
 [yes](https://web.stanford.edu/~ost/papers/aggregation.pdf).
 
-Great, so there should be an efficient distributed algorithm to do
+Great, so maybe there should be an efficient distributed algorithm to do
 Bayesian inference by splitting up the dataset, doing inference on each
 worker, and then aggregating the results?
 Well, presumably yes -- if workers have an exact representation of their
