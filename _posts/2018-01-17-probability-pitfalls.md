@@ -167,7 +167,11 @@ but also see
 **Problem:**
 A certain disease affects 1 in 1000 people.
 A medical diagnostic test for the disease has 95% accuracy, i.e.
-95% of the time it gives the correct diagnosis.
+95% of the time it gives the correct diagnosis (whether you're diseased
+or not).
+<!-- you could have a test that's right 95% of the time for a random person
+but always says you have the disease when you have it. so we need the
+parenthetical -->
 Suppose you take the test and it reads positive, what is the probability
 that you have the disease?
 
