@@ -24,7 +24,8 @@ title: "Advice for students"
   If you need an academic credential, write a paper with a professor in your
   city and get it published.
   The mentorship will be valuable and with just publications and reference
-  letters applying to grad school is an option.
+  letters applying to grad school is an option (see e.g.
+  [link](https://en.wikipedia.org/w/index.php?title=Vladimir_Voevodsky&oldid=1078337374#Early_life_and_education)).
 * If you formally take a course, ideally learn the material by yourself
   beforehand (paradoxical as that sounds).
 * Don't go to a bad grad school. At the graduate level, low-status schools
