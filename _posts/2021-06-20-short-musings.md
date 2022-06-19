@@ -53,3 +53,10 @@ irritable bowel syndrome (IBS), and 5% to 6% of travelers after traveler’s
 diarrhea will develop IBS"; and "the prevalence of depression and anxiety in
 IBS patients is 37.1 and 31.4% respectively".
 
+The Princeton Companion to Mathematics says "algebraists like to work with exact
+formulas and analysts use estimates. Or, to put it even more succinctly,
+algebraists like equalities and analysts like inequalities". In computer
+science, algebraists like programming languages and analysts like algorithms and
+complexity. Or, to put it even more succinctly, algebraists like lambda calculus
+and analysts like Turing machines.
+
