@@ -7,7 +7,7 @@ title: "U of Toronto study space info"
 
 ![Cannons]({{"/public/images/cannon.jpg" | absolute_url}})
 
-U of T cannons pointed at Ryerson
+(Above: U of T cannons pointed at Ryerson)
 
 ## [Libraries](https://onesearch.library.utoronto.ca/visit)
 

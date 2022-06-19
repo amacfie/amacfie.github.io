@@ -4,7 +4,7 @@ title: Uncertainty due to computational approximation in Bayesian inference
 ---
 
 In Bayesian inference, we can factor approximate computation (e.g.
-linearization) into the actual
+[linearization](https://www3.nd.edu/~esims1/log_linearization_sp12.pdf)) into the actual
 posterior probabilities.
 
 Suppose we have a [pmf](https://en.wikipedia.org/wiki/Probability_mass_function)
