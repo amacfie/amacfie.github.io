@@ -3,6 +3,13 @@ layout: post
 title: "Short musings"
 ---
 
+<script>
+  // only run if we're on the post's dedicated page
+  if (window.location.pathname.indexOf("20") > -1) {
+    window.location.replace("https://github.com/amacfie/public_notes/wiki/Short-musings");
+  }
+</script>
+
 <!-- alternative title: Hot Takes -->
 
 When I was 17 my lowest grade was in math and I thought I wasn't good at it.

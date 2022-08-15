@@ -69,6 +69,6 @@ If $$G$$ is a finite group and $$x_1, \ldots, x_m \in G$$, let $$N(m, a)$$ be
 the number of solutions to
 $$x_1 \cdots x_m = a$$
 such that $$(x_1, \ldots, x_m)$$ satisfies a local restriction.
-Then under a technical condition, as $$m \to \infty$$ we have $$N(m, a) \sim
+Then under some conditions, as $$m \to \infty$$ we have $$N(m, a) \sim
 N(m, e)$$, where $$e \in G$$ is the identity element.
 
