@@ -2,3 +2,5 @@ https://min.news/en/education/8615de9eb4f267be7d3285b35efa4e3f.html?__cf_chl_jsc
 "10 years ago, the Peking University genius Liu Zhiyu, who gave up MIT and
 chose to be a monk, how is it now?"
 
+https://github.com/amacfie/public_notes/wiki/Showing-the-next-rectangle-in-a-pile
+
