@@ -22,7 +22,7 @@ github:
 pages_list:
     'All posts': '/archive'
     Feed: '/atom.xml'
-    About me: '/about'
+    About: '/about'
 
 plugins: [jekyll-paginate]
 
