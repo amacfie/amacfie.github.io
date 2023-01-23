@@ -3,6 +3,13 @@ layout: post
 title: "Advice for students"
 ---
 
+<script>
+  // only run if we're on the post's dedicated page (hack)
+  if (window.location.pathname.indexOf("20") > -1) {
+    window.location.replace("https://github.com/amacfie/public_notes/wiki/Advice-for-students");
+  }
+</script>
+
 * Be challenged. Seek material at the level and pace appropriate for you.
   Learn with people who aren't all dumber than you.
 * If you're motivated to learn or build something, do it. If you're not
