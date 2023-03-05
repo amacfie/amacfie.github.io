@@ -3,11 +3,9 @@ layout: post
 title: Modeling aesthetics in mathematics
 ---
 
->The moral: a good proof is one that makes us wiser.
->
->-Yuri Manin, _A Course in Mathematical Logic for Mathematicians_
+What exactly is beautiful math?
 
->above all, adepts [of mathematics] find therein delights analogous to those
+>[A]bove all, adepts [of mathematics] find therein delights analogous to those
 >given by
 >painting and music. They admire the delicate harmony of numbers and forms; they
 >marvel when a new discovery opens to them an unexpected perspective; and has
@@ -26,23 +24,25 @@ title: Modeling aesthetics in mathematics
 >easy, etc. Also, if the deductions are lengthy or complicated, there should be
 >some simple general principle involved, which "explains" the complications and
 >detours, reduces the apparent arbitrariness to a few simple guiding
->motivations, etc. These criteria are clearly those of any creative art
+>motivations, etc. These criteria are clearly those of any creative art.
 >
 >-John von Neumann, _The Mathematician_
 
-What's a simple but useful characterization of beauty in mathematics?
-I claim a proof is beautiful if it teaches us something useful for proving new
+>The moral: a good proof is one that makes us wiser.
+>
+>-Yuri Manin, _A Course in Mathematical Logic for Mathematicians_
+
+My hypothesis is that generally when people talk about beauty in mathematics
+they're talking about things that teach us something useful for proving new
 facts.
 For example, proving a difficult but simple theorem is useful because its
 difficulty means it may imply other previously difficult theorems, and its
 simplicity means it may show up and be used often.
 A theorem that establishes a connection between two previously disparate areas
-of mathematics is considered beautiful;
+of mathematics is considered beautiful, and
 such a connection allows knowledge from one are to be applied to the other,
 potentially cracking new problems.
 An unexpected proof -- "an unexpected perspective" or "surprising twist" --
 offers something new to be learned, something that can then be used for other
 problems.
-Whimsically we could even say an efficient automated theorem prover must
-contain a good deal of beauty.
 
