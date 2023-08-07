@@ -47,8 +47,8 @@ wasn't very popular.
 Did it fail due to lack of network effects,
 lack of [innovative mechanisms](https://thenextweb.com/us/2010/07/09/will-you-pay-to-comment-online/),
 or an essential flaw in the concept? I don't know.
-[Bounties on GitHub issues](https://www.bountysource.com/) seem to be a bit
-more successful.
+[Bounties](https://www.bountysource.com/) [on](https://gitstart.com/)
+GitHub issues seem to be a bit more successful.
 
 In addition to bounties, there could be a prediction market.
 The time of resolution may have to be indefinite, though, since
