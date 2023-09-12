@@ -5,3 +5,5 @@ https://chrome.google.com/webstore/detail/cutspel/hojgjeiaognigdpphinpoobgpmgpko
 https://chrome.google.com/webstore/detail/simplified-spelling/aaacilckajbambkbjbeghcjjobcibnkb?hl=en
   https://en.wikipedia.org/wiki/SoundSpel
 
+https://en.wikipedia.org/wiki/Standard_Canadian_English
+
