@@ -7,3 +7,5 @@ https://chrome.google.com/webstore/detail/simplified-spelling/aaacilckajbambkbjb
 
 https://en.wikipedia.org/wiki/Standard_Canadian_English
 
+https://www.finlywealth.com/calculator
+
