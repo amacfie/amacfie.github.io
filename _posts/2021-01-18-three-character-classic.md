@@ -76,3 +76,6 @@ https://www.imo-official.org/country_hall.aspx?code=CHN
 >It is natural for a dog to watch at night, and for a cock to crow in the
 >morning; if anyone does not learn, how can he be called a man?
 
+![Temple of Literature]({{"/public/images/temple_of_literature.jpg" | absolute_url}})
+(Above: In the Temple of Literature in Hanoi.)
+
