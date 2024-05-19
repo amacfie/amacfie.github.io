@@ -30,8 +30,8 @@ email addresses are verified and
 [public](https://www.gtricks.com/google/hide-email-address-online-recaptcha-tool/)
 so they can be checked against personal webpages).
 
-Something along these lines might be doable (and if someone wants to build it
-I'll donate the domain proofbounty.com) but what's the use case?
+Something along these lines might be doable (name: proofbounty.io?) but what's
+the use case?
 Monetary rewards for mathematical problems are [rare](https://mathoverflow.net/questions/66084/open-problems-with-monetary-rewards)
 and mathematicians generally already earn a salary, so the interest would
 likely be modest.
