@@ -3,6 +3,14 @@ layout: post
 title: Uncertainty due to computational approximation in Bayesian inference
 ---
 
+<script>
+  // only run if we're on the post's dedicated page
+  if (window.location.pathname.indexOf("uncertainty-of-approx-bayes") > -1) {
+    window.location.replace("https://github.com/amacfie/public_notes/wiki/Uncertainty-due-to-computational-approximation-in-Bayesian-inference");
+  }
+</script>
+
+
 In Bayesian inference, we can factor approximate computation (e.g.
 [linearization](https://www3.nd.edu/~esims1/log_linearization_sp12.pdf)) into the actual
 posterior probabilities.
