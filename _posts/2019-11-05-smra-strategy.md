@@ -151,7 +151,7 @@ tactics.
 * People gain points according to their valuation, lose points to pay for
   won products
 * Possible bonus points for raising rivals' prices
-* Goal is to maximize points, not to get more points than opponent
+* Goal is not to get more points than opponent but to get more points than others playing as the same player in a different round of the same game
 * In an actual auction, the other bidders may not be rational
 
 After gaining familiarity with the mini scenarios, full scale mock auctions may
