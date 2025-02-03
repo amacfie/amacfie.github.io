@@ -4,5 +4,7 @@ https://github.com/amacfie/public_notes/wiki#mathematics
 
 https://github.com/amacfie/public_notes/wiki/Belief-elicitation-without-verification
 
+https://github.com/amacfie/public_notes/wiki/Value-of-deduplication-moderation-for-user-submissions
+
 https://github.com/amacfie/semkon
 
