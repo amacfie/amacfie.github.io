@@ -6,7 +6,7 @@ title: "Advice for students"
 <script>
   // only run if we're on the post's dedicated page (hack)
   if (window.location.pathname.indexOf("advice-students") > -1) {
-    window.location.replace("https://github.com/amacfie/public_notes/wiki/Advice-for-students");
+    window.location.replace("https://github.com/andrew222651/public_notes/wiki/Advice-for-students");
   }
 </script>
 

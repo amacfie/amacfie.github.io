@@ -6,7 +6,7 @@ title: Uncertainty due to computational approximation in Bayesian inference
 <script>
   // only run if we're on the post's dedicated page
   if (window.location.pathname.indexOf("uncertainty-of-approx-bayes") > -1) {
-    window.location.replace("https://github.com/amacfie/public_notes/wiki/Uncertainty-due-to-computational-approximation-in-Bayesian-inference");
+    window.location.replace("https://github.com/andrew222651/public_notes/wiki/Uncertainty-due-to-computational-approximation-in-Bayesian-inference");
   }
 </script>
 

@@ -37,7 +37,7 @@ until they finally do leave or they read all the comments.
 When the simulation concludes, we log the average number of upvotes per
 visitor which we use as our utility function.
 
-See [Python source code](https://github.com/amacfie/amacfie.github.io/tree/master/_posts/comment_orderings)
+See [Python source code](https://github.com/andrew222651/andrew222651.github.io/tree/master/_posts/comment_orderings)
 for full details.
 
 Of course this is not a perfect model of every comment section.
