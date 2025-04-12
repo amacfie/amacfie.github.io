@@ -3,14 +3,6 @@ layout: post
 title: Tricky grammar
 ---
 
-Okay, here's a version sticking very closely to the original notes, with minimal additions for readability as a post.
-
----
-
-## Notes on Some Tricky Grammar Points
-
-Here are some notes exploring specific grammar questions that came up recently.
-
 **Pronouns in Quotations**
 
 A question arose: Does a pronoun in a quotation need to be integrated into the surrounding text? The MLA Style Center at <https://style.mla.org/agreement-pronouns-quotations/> recommends not doing so. For example: "Laurence is boastful, repeating to his brother that the picture is 'the best thing **I**’ve done yet'."
