@@ -17,7 +17,7 @@ excerpt_separator: "\n\n"
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/amacfie/amacfie.github.io
+  repo:           https://github.com/andrew222651/andrew222651.github.io
 
 pages_list:
     'All posts': '/archive'
